@@ -1,5 +1,5 @@
 # bike-rental-prediction-ML
-Machine learning is employed to make predictions on a bicycle rental dataset. Initially, linear regression is employed using NumPy, PyTorch and TensorFlow, for educational purposes. Eventually other models shall be implemented as well.
+Machine learning is employed to make predictions on a bicycle rental dataset. Initially, linear regression is employed using both NumPy and PyTorch, for educational purposes. Eventually other models shall be implemented as well.
 
 A dataset containing information on bicycle rentals from 2011 to 2012 from the Capital bikesharing system is employed for training. The dataset is split into a training set and a test set in order to test the accuracy of the predictions made after learning.
 
